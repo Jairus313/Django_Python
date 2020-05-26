@@ -1,2 +1,2 @@
-# Django_Python
+# Django Python
 This Django Practice Repo
